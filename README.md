@@ -56,24 +56,24 @@ The findings underscore the critical role of policy, technology, and investment 
 ####  4. Biomass
   Increased from 0.074 mtoe (1990) to ~2.1–2.4 mtoe (2020).
   Highlights the potential of organic resource utilization.
-#### - 5. Biodiesel
+####  5. Biodiesel
   From negligible levels in the early 1990s to 0.359 mtoe (2020).
   Reflects growing interest in sustainable transport fuels.
 
   ### Dashboard
-  To have access to the dashboard and all the interactivity, click here
+  To have access to the dashboard and all the interactivity, [click here](https://public.tableau.com/views/UKRenewableenergyconsumption1990-2020/Dashboard13?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Recommendations
-Policy and Regulatory Support
-Implement incentives and reduce barriers for renewable projects.
-Provide financial support for innovation and scaling.
-Public-Private Partnerships
-Encourage collaboration between governments, industry, and academia.
-Education and Workforce Development
-Build training programs to develop renewable energy sector expertise.
-International Collaboration
-Share technology, best practices, and strategies globally.
+### Policy and Regulatory Support
+- Implement incentives and reduce barriers for renewable projects.
+- Provide financial support for innovation and scaling.
+### Public-Private Partnerships
+- Encourage collaboration between governments, industry, and academia.
+### Education and Workforce Development
+- Build training programs to develop renewable energy sector expertise.
+### International Collaboration
+- Share technology, best practices, and strategies globally.
 
 ## Conclusion
 The dataset confirms the UK’s significant progress in renewable energy adoption over the last three decades. Wind, waste-to-energy, and biomass sectors have grown into substantial contributors, while traditional sources like wood maintain consistent relevance. The trajectory, though occasionally uneven, demonstrates resilience and adaptability in the renewable sector.
