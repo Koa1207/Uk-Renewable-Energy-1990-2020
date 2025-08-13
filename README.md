@@ -43,21 +43,25 @@ The findings underscore the critical role of policy, technology, and investment 
 
 
 ### Top 5 Renewable Energy Sources in 2020
-#### - 1. Wind/Wave/Tidal
+![imgae alt](https://github.com/Koa1207/Uk-Renewable-Energy-1990-2020/blob/main/Screenshot%202025-08-13%20at%2017.16.27.png)
+####  1. Wind/Wave/Tidal
   Grew from 0.001 mtoe (1990) to 6.481 mtoe (2020).
   Reflects strong technological advancements and investment.
-#### - 2. Wood Energy
+####  2. Wood Energy
   Stable contributor: 1.108–3.367 mtoe across 1990–2020.
   Demonstrates long-term reliability as a renewable source.
-#### - 3. Municipal Solid Waste (MSW)
+####  3. Municipal Solid Waste (MSW)
   Grew from 0.065 mtoe (1990) to 2.469 mtoe (2020).
   Indicates improvements in waste-to-energy technologies.
-#### - 4. Biomass
+####  4. Biomass
   Increased from 0.074 mtoe (1990) to ~2.1–2.4 mtoe (2020).
   Highlights the potential of organic resource utilization.
 #### - 5. Biodiesel
   From negligible levels in the early 1990s to 0.359 mtoe (2020).
   Reflects growing interest in sustainable transport fuels.
+
+  ### Dashboard
+  To have access to the dashboard and all the interactivity, click here
 
 
 ## Recommendations
