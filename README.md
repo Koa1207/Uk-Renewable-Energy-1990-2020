@@ -7,6 +7,7 @@ The analysis reveals a notable upward trajectory in renewable energy adoption, m
 A 35% surge in renewable consumption between 1993 and 1994 (a pivotal inflection point).
 Gradual yet sustained growth despite intermittent fluctuations.
 
+
 **Wind/Wave/Tidal** emerging as the most rapidly growing renewable category.
 The study identifies the top 5 renewable energy sources in 2020:
 - Wind/Wave/Tidal
@@ -28,7 +29,10 @@ The findings underscore the critical role of policy, technology, and investment 
  3. Individual Renewable Energy Source Contributions
 
 ## Key Insights
+
+
 ### Renewable Energy Consumption Growth
+![image alt](https://github.com/Koa1207/Uk-Renewable-Energy-1990-2020/blob/main/Screenshot%202025-08-13%20at%2017.14.11.png)
 - 1993–1994: 35% surge in renewable consumption — a major milestone.
 - 1996: Minor decline of 2.38%.
 - 1997 onwards: Sustained growth with some fluctuations.
