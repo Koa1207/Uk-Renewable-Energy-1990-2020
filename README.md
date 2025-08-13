@@ -1,3 +1,8 @@
+# UK Renewable Energy Consumption 1990-2020
+
+![image alt](https://github.com/Koa1207/Uk-Renewable-Energy-1990-2020/blob/main/Electrical-Trends-of-2024-750x430.jpg)
+
+
 ## Executive Summary
 This dataset provides a detailed overview of the United Kingdom’s energy consumption, covering 17 distinct energy sources alongside total consumption figures. Measured in million tonnes of oil equivalent (mtoe) — where 1 mtoe = 42 petajoules (42 × 10^15 J) — it includes a valuable metric: the percentage of total consumption sourced from renewables.
 The dataset integrates cross-boundary adjustments (accounting for energy use by UK residents abroad and excluding foreign residents in UK territory) and applies these adjustments to bioethanol and biodiesel data. All values are reported to three decimal places, with total figures based on raw data (possible rounding discrepancies).
